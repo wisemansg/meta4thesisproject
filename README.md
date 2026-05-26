@@ -1,7 +1,34 @@
-# Sustainability Assessment and Optimization of Aluminum Production for Electric Vehicle Manufacturing Using Life Cycle Assessment and Predictive Modeling
+# Sustainability Assessment and Optimization of Aluminum Production for Electric Vehicle Manufacturing Using Life Cycle Assessment and Predictive Modeling♻️🌱⚡🚗🏭📊
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SimaPro-228B22?logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ecoinvent-2E8B57?logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-DA5B0B?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Life%20Cycle%20Assessment-006400?logo=greencircle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-8A2BE2?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Circular%20Economy-32CD32?logo=recycle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sustainability%20Analysis-2E8B57?logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Renewable%20Energy-FFB300?logo=solarpower&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electric%20Vehicles-0A84FF?logo=tesla&logoColor=white" />
+  <img src="https://img.shields.io/badge/Carbon%20Footprint%20Analysis-556B2F?logo=earthday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Industrial%20Optimization-B22222?logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scenario%20Simulation-6A5ACD?logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-FF69B4?logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manufacturing%204.0-696969?logo=siemens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Green%20Manufacturing-228B22?logo=greenhouse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Environmental%20Impact%20Assessment-3CB371?logo=worldhealthorganization&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resource%20Efficiency-4682B4?logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Research%20Project-800000?logo=googlescholar&logoColor=white" />
+</p>
+
+---
 Master’s thesis project for the Erasmus Mundus Joint Master Degree in Manufacturing 4.0 by Intelligent and Sustainable Technologies  
-Meta4.0 Consortium: NTNU (Norway), École Centrale de Lyon (France), Politecnico di Torino (Italy)  
+Meta4.0 Consortium: Norwegian University of Science and Technology (Norway), École Centrale de Lyon (France), Politecnico di Torino (Italy)  
 Submitted: September 2025
 
 ---
@@ -15,6 +42,19 @@ The study compares primary aluminum produced from bauxite with secondary aluminu
 Overall, aluminum supports sustainable mobility when paired with circularity and clean energy but does not inherently guarantee low environmental impact. The research highlights the importance of supply chain electrification, recycling infrastructure and data informed industrial decision making.  
 
 **Keywords:** aluminum, electric vehicles, sustainability, circular economy, Life Cycle Assessment, SimaPro, Ecoinvent, recycling, predictive modeling, greenhouse gas emissions, renewable energy, materials optimization
+
+---
+
+## 📥 Download Thesis Versions
+
+- **École Centrale de Lyon - ENISE (France) Submission Version**  
+  [Download PDF](https://github.com/wisemansg/meta4thesisproject/blob/main/assets/Meta4%20EMJMD%20MASTER%20THESIS.pdf)
+
+- **Norwegian University of Science and Technology – NTNU (Norway) Submission Version**  
+  [Download PDF](https://github.com/wisemansg/meta4thesisproject/blob/main/assets/NTNU%20Meta4%20MASTER%20THESIS.pdf)
+
+- **Polytechnic University of Turin – PoliTO (Italy) Submission Version**  
+  [Download PDF](https://github.com/wisemansg/meta4thesisproject/blob/main/assets/PoliTo%20Meta4%20MASTER%20THESIS.pdf)
 
 ---
 
@@ -96,7 +136,3 @@ The research highlights that upstream material production has a significant infl
 ## 🏁 One Sentence Takeaway
 
 Aluminum can support sustainable electric vehicle manufacturing when enabled by recycling infrastructure, renewable energy and optimized industrial processes.
-
----
-
-
